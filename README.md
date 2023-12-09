@@ -4,8 +4,8 @@ Live Link: https://6533b63357ebb9164c9f6f93--tech-fusion-emporium.netlify.app/
 
 Welcome to our website !!
 
-we have built an e-commerce website that has the outstanding products of 6 famous electronics brands name SONY, GOOGLE,SAMSUNG,APPLE,LENOVO and XIAOMI.
-
+I have built an e-commerce website that has the outstanding products of 6 famous electronics brands name SONY, GOOGLE,SAMSUNG,APPLE,LENOVO and XIAOMI.
+In this project I have used HTML,CSS,JS AND REACT JS in front-end and in the backend   MONGODB has been used.
 The project features includes....
 
 1. The website is as based on technology and electronics so all the most famous 6 brand products have been included.
